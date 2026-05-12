@@ -41,8 +41,9 @@ This project analyzes the banking landscape of Bangladesh using **Power BI**. It
 ## 🚀 Project Files
 
 ### 🔹 Excel Dataset
-
+https://github.com/armanhosenBTechEnthusiast/Bangladesh-Banking-Landscape-Power-BI-Dashboard-/blob/main/BB.xlsx
 ### 🔹 Power BI Dashboard
+https://github.com/armanhosenBTechEnthusiast/Bangladesh-Banking-Landscape-Power-BI-Dashboard-/blob/main/Bd%20Banking%20Landscape.pbix
 
 
 ---
@@ -68,6 +69,6 @@ This project analyzes the banking landscape of Bangladesh using **Power BI**. It
 ---
 
 ## 👨‍💻 Author
-Arman Hosen 
+**Arman Hosen**  
 BBA in Finance and Banking / Data Enthusiast
-Jashore University of Science and Technology
+Jashore University of Science and Technology (JUST)
